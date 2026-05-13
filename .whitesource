@@ -34,6 +34,9 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
+    },
+    "enableRenovate": {
+      "branchPrefix": "foo/bar"
     }
   },
    "imageSettings":{
