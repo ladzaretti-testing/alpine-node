@@ -35,9 +35,8 @@
     "workflowRules": {
       "enabled": true
     },
-    "enableRenovate": {
-      "branchPrefix": "foo/bar"
-    }
+    "enableRenovate": true,
+    "branchPrefix": "foo/bar"
   },
    "imageSettings":{
        "imageTracing":{
