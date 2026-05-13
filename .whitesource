@@ -36,7 +36,8 @@
       "enabled": true
     },
     "enableRenovate": true,
-    "branchPrefix": "foo/bar"
+    "branchPrefix": "foo/bar",
+    "commitMessagePrefix": "prefix"
   },
    "imageSettings":{
        "imageTracing":{
